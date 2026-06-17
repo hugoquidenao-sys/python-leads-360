@@ -1,1 +1,0 @@
-mkdir -p /home/claude/python-leads-360/{data,outputs,discovery,analyzer,scoring,recommendations,ai,exporters,database,utils,tests}
